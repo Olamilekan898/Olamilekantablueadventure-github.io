@@ -1,5 +1,5 @@
 # Olamilekantablueadventure-github.io
-                                                          ADVENTURE DATA SET ANALYSIS  ON TABLUE
+                                                   ADVENTURE DATA SET ANALYSIS  ON TABLUE
 
                                                                         
 

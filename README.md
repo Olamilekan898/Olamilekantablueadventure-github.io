@@ -44,9 +44,9 @@ This Tableau project provides comprehensive insights into the Adventure Works da
 ## How to Access
 
 - *Project Link:* [Adventure Works Data Set Analysis](https://public.tableau.com/app/profile/toheeb.rasaq/viz/TablueprojectAnalysisDone/Dashboard1)
-- *GitHub Repository:* [Link to your GitHub repository]
-
-## About the Author
+- *GitHub Repository:* https://github.com/Olamilekan898/Olamilekantablueadventure-github.io
+- 
+## About Me
 
 Toheeb Rasaq is a data analyst with a keen interest in visualizing complex data sets to uncover actionable insights. With expertise in Tableau and data storytelling, My aims is to drive strategic decisions through data-driven approaches.
 

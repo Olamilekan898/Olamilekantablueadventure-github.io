@@ -1,5 +1,5 @@
 # Olamilekantablueadventure-github.io
-                                                                 ADVENTURE DATA SET ANALYSIS  ON TABLUE
+                                                          ADVENTURE DATA SET ANALYSIS  ON TABLUE
 
                                                                         
 
@@ -48,7 +48,7 @@ This Tableau project provides comprehensive insights into the Adventure Works da
 
 ## About the Author
 
-Toheeb Rasaq is a data analyst with a keen interest in visualizing complex data sets to uncover actionable insights. With expertise in Tableau and data storytelling, Toheeb aims to drive strategic decisions through data-driven approaches.
+Toheeb Rasaq is a data analyst with a keen interest in visualizing complex data sets to uncover actionable insights. With expertise in Tableau and data storytelling, My aims to drive strategic decisions through data-driven approaches.
 
 ## Connect
 
